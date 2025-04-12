@@ -1,1 +1,1 @@
-#### This is our first projrct file.
+#### This is our first project file.
